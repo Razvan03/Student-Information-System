@@ -1,0 +1,99 @@
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\student information system.exe
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\student information system.deps.json
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\student information system.runtimeconfig.json
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\student information system.runtimeconfig.dev.json
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\student information system.dll
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\student information system.pdb
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.AssemblyReference.cache
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.GenerateResource.cache
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.AssemblyInfoInputs.cache
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.AssemblyInfo.cs
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.CoreCompileInputs.cache
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.dll
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\refint\student information system.dll
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.pdb
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.genruntimeconfig.cache
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\ref\student information system.dll
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.MainForm.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.Properties.Resources.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.RegistrationForm.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.Lista_StudentiForm.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.NoteForm.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.OrarForm.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.LoginForm.resources
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.SplashScreen.resources
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Faculta\II\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.CopyComplete
+D:\Faculta\II\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.SignUpForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.exe
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.deps.json
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.runtimeconfig.json
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.runtimeconfig.dev.json
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.pdb
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.AssemblyReference.cache
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.MainForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.Lista_StudentiForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.LoginForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.NoteForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.OrarForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.Properties.Resources.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.RegistrationForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.SignUpForm.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.SplashScreen.resources
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.GenerateResource.cache
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.AssemblyInfoInputs.cache
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.AssemblyInfo.cs
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.CoreCompileInputs.cache
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.CopyComplete
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\refint\student information system.dll
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.pdb
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.genruntimeconfig.cache
+C:\Users\necul\Downloads\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\ref\student information system.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.exe
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.deps.json
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.runtimeconfig.json
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.runtimeconfig.dev.json
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\student information system.pdb
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.AssemblyReference.cache
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.MainForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.Lista_StudentiForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.LoginForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.NoteForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.OrarForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.Properties.Resources.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.RegistrationForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.SignUpForm.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student_information_system.SplashScreen.resources
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.GenerateResource.cache
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.AssemblyInfoInputs.cache
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.AssemblyInfo.cs
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.CoreCompileInputs.cache
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.csproj.CopyComplete
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\refint\student information system.dll
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.pdb
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\student information system.genruntimeconfig.cache
+D:\Faculta\II\Proiect II\student-information-system\student information system\student information system\obj\Debug\net5.0-windows\ref\student information system.dll
